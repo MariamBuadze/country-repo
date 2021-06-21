@@ -1,0 +1,31 @@
+h1 { color: black ; 
+		font-size: 40px;
+	}
+
+	p { color: blue;
+	
+	}
+	
+	.red-text {
+		color: darkred;
+		font-size: 18px;
+	}
+
+	footer h1 {
+		background-color: black ;
+		color: white ;
+		font-size: 25px;
+	}
+
+	#logo{
+		width: 150px;
+		
+	}
+
+	#image1{
+		width: 400px;
+	}
+
+	#image2{
+		width: 400px;
+	}
